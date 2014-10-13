@@ -1,0 +1,25 @@
+# lein
+pom.xml
+*jar
+/classes/
+/target/
+.lein-deps-sum
+.lein-repl-history
+.lein-plugins/
+
+# eclipse
+*.pydevproject
+.metadata
+.gradle
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+
+# light table
+.nrepl-port
